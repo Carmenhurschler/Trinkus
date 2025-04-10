@@ -21,7 +21,9 @@
 - Sport treiben
 
 ### Haarfarbe, Grösse, Alter:
-- Braun, 162cm, 24 Jahre
+- Braun
+- 162cm
+- 24 Jahre
 
 ### Das sind meine Ziele:
 - Erfolgreicher Unterrichtstag
